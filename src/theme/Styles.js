@@ -22,6 +22,20 @@ const styles = StyleSheet.create({
     title:{
         fontSize:30,
         marginBottom:10
+    },
+    avatar:{
+        width:150,
+        height:150,
+        borderRadius:100
+    },
+    containeravatar:{
+        alignSelf:"center"
+    }, 
+    menuBoton:{
+        alignSelf:"center"
+    },
+    menuTexto:{
+        fontSize:25
     }
 
 });
